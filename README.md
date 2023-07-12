@@ -9,4 +9,4 @@ share this article with friends too !
 
 ---
 
-Live Demo :
+Live Demo : https://mulugetanigus.github.io/Ethio-Quote-Generator/
